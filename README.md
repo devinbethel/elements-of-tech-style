@@ -1,8 +1,49 @@
-# Enhanced Writing and Style Guide
-*Combining Professional Standards with Strunk & White's Timeless Principles*
+# Elements of Modern Style: A Professional Writing Guide
+*Inspired by Strunk & White's The Elements of Style*
 
 ## 🧭 Purpose
 To standardize Devin's professional output for clarity, credibility, speed, and strategic impact—across documentation, strategy, design, and stakeholder communication.
+
+## ⚠️ Critical Principle: Preserve Author Voice
+**The style guide enhances clarity without erasing personality.** When editing, maintain the author's natural voice, tone, and style. Apply rules vigorously for structure and clarity, but make minimal changes to personal expression unless explicitly requested.
+
+### Voice Preservation Guidelines
+1. **Keep the author's natural phrasing** when it's clear and effective
+2. **Preserve emotional tone** (warmth, humor, formality level)
+3. **Maintain relationship dynamics** (casual with friends, respectful with parents, professional with colleagues)
+4. **Apply structure and clarity rules** without rewriting personality
+5. **Only standardize voice** when explicitly asked to "make it more professional" or "change the tone"
+
+### Examples of Voice-Preserving Edits
+
+**Personal Email - Light Touch:**
+- ❌ Over-edited: "Per our discussion, I require financial assistance."
+- ✅ Voice-preserved: "Per our discussion, you're going to help me pay..."
+
+**Team Message - Maintaining Casual Tone:**
+- ❌ Over-edited: "The deployment has been completed successfully."
+- ✅ Voice-preserved: "Hey team, we shipped it! 🚀"
+
+**Client Communication - Keeping Professional Warmth:**
+- ❌ Over-edited: "This report contains the requested data."
+- ✅ Voice-preserved: "I'm excited to share this report with you—it has everything we discussed."
+
+### When to Intervene vs. When to Preserve
+
+**Always Fix:**
+- Factual errors or unclear meaning
+- Missing critical information (dates, amounts, actions)
+- Grammatical errors that impede understanding
+- Undefined acronyms in formal documents
+
+**Generally Preserve:**
+- Personal expressions and idioms in informal communication
+- Emotional language that fits the context
+- Stylistic choices that reflect personality
+- Appropriate humor or warmth
+- Cultural or regional expressions (unless global audience)
+
+**The Golden Rule:** If it sounds like the author and communicates clearly, don't change it just to follow a rule.
 
 ## 🔧 Core Style Principles
 
@@ -434,6 +475,338 @@ Show tracked changes between passes"
 | "It's really important that we basically fix this ASAP." | "We must resolve this authentication bug within 48 hours to prevent service degradation." | Professional tone + Specificity |
 | "The API does processing of user requests." | "The API processes 50K user requests per minute with 99.9% success rate." | Strong verbs + Metrics |
 | "Due to the fact that the database was experiencing issues, the application was not able to function properly." | "Database failures crashed the application." | Omit needless words + Active voice + Specific language |
+
+## 🚫 Avoiding AI-Generated Writing Patterns
+
+### Common AI Writing Tells to Eliminate
+
+**Punctuation Overuse:**
+- **Em dashes (—) and En dashes (–):** Limit to 1 per paragraph maximum
+  - ❌ "The system—which processes millions of requests—operates efficiently—even under load."
+  - ✅ "The system processes millions of requests and operates efficiently under load."
+- **Semicolons:** Use sparingly, prefer periods or commas
+  - ❌ "We deployed the fix; the results were immediate; performance improved dramatically."
+  - ✅ "We deployed the fix. The results were immediate, and performance improved dramatically."
+- **Colons for lists:** Don't overuse in prose
+  - ❌ "Our approach offers three benefits: speed, reliability, and cost-effectiveness: all critical for success."
+  - ✅ "Our approach is fast, reliable, and cost-effective—all critical for success."
+
+**Emoji and Symbol Overuse:**
+- **Section headers:** Maximum 1 emoji per header, none in subheaders
+  - ❌ "🚀 Project Launch 🎯 Goals & 📊 Metrics"
+  - ✅ "🚀 Project Launch" with regular subheaders
+- **Bullet points:** Use standard bullets (•), not emoji
+  - ❌ "✅ Completed ❌ Failed 🔄 In Progress"
+  - ✅ "• Completed • Failed • In Progress"
+- **Never use:** Excessive checkmarks, arrows, or decorative symbols in body text
+
+**Formulaic Transitions:**
+AI tends to overuse certain transitional phrases. Vary your language:
+- ❌ "Moreover," "Furthermore," "Additionally," in every paragraph
+- ❌ "In conclusion," "To summarize," "In essence,"
+- ❌ "It's worth noting that," "It's important to mention,"
+- ✅ Use natural transitions or let ideas flow without forced connectors
+
+**Overly Structured Patterns:**
+- ❌ Every paragraph starting with a topic sentence followed by exactly 3 supporting points
+- ❌ Mechanical "First... Second... Third..." structures
+- ❌ Ending every section with a summary sentence
+- ✅ Vary paragraph structure and length naturally
+
+### Word Choice Red Flags
+
+**Overused AI Vocabulary:**
+Replace these words that AI systems love:
+- "Delve" → explore, examine, investigate
+- "Crucial" → important, critical, essential
+- "Leverage" → use, apply, employ
+- "Utilize" → use
+- "Implement" → build, create, set up
+- "Facilitate" → help, enable, support
+- "Optimize" → improve, enhance, refine
+- "Robust" → strong, reliable, solid
+- "Comprehensive" → complete, full, thorough
+- "Innovative" → new, creative, novel
+
+**Redundant Intensifiers:**
+- ❌ "Very unique," "extremely critical," "highly important"
+- ❌ "Significantly enhance," "dramatically improve," "substantially increase"
+- ✅ Use strong single words: "unique," "critical," "enhance"
+
+**Hedging Language:**
+AI often hedges too much. Be more direct:
+- ❌ "This could potentially help improve..."
+- ❌ "It might be possible to consider..."
+- ❌ "This may serve to facilitate..."
+- ✅ "This improves..." or "Consider..."
+
+### Structural Patterns to Avoid
+
+**Opening Patterns:**
+- ❌ "In today's fast-paced business environment..."
+- ❌ "As we navigate the complexities of..."
+- ❌ "In the ever-evolving landscape of..."
+- ✅ Start with a specific fact or action
+
+**List Introduction Clichés:**
+- ❌ "Here are the key benefits:"
+- ❌ "The following points highlight:"
+- ❌ "Let's explore the main advantages:"
+- ✅ Jump straight into the list or use a simple lead-in
+
+**Closing Patterns:**
+- ❌ "In conclusion, it's clear that..."
+- ❌ "To sum up, we can see that..."
+- ❌ "Overall, this demonstrates..."
+- ✅ End with a specific action or let strong points stand alone
+
+### Natural Writing Techniques
+
+**Vary Sentence Length:**
+Mix short and long sentences. Not every sentence needs to be perfectly balanced.
+```
+✅ Good example:
+"The API failed. After investigating for three hours, we discovered 
+a memory leak in the authentication module that only appeared under 
+specific conditions. We patched it."
+```
+
+**Include Conversational Elements (When Appropriate):**
+- Contractions: "We'll deploy" instead of "We will deploy"
+- Direct address: "You'll notice" instead of "One might observe"
+- Natural phrases: "The bottom line:" instead of "In summary:"
+
+**Add Specific, Concrete Details:**
+- ❌ "The system performed well during testing"
+- ✅ "The system handled 50K concurrent users without crashing"
+
+**Break "Perfect" Patterns:**
+- Not every list needs exactly 3 items
+- Not every paragraph needs the same structure
+- Not every section needs a summary
+
+### Examples: AI-Sounding vs. Natural
+
+**❌ AI-Sounding Email:**
+```
+Subject: Strategic Initiative Update: Q2 Performance Metrics
+
+Dear Team,
+
+I hope this message finds you well. I am writing to provide 
+a comprehensive update on our strategic initiatives.
+
+First and foremost, we have successfully leveraged our core 
+competencies to optimize performance across multiple vectors. 
+Furthermore, our robust implementation has yielded significant 
+results; moreover, the team's dedication has been crucial.
+
+In conclusion, these achievements demonstrate our commitment 
+to excellence. Please do not hesitate to reach out if you 
+have any questions.
+
+Best regards,
+```
+
+**✅ Natural Email:**
+```
+Subject: Q2 Performance - We Beat Our Targets
+
+Team,
+
+Quick update on Q2: we beat every target.
+
+Revenue hit $4.2M (goal was $3.8M), and our new automation 
+cut deployment time from 6 hours to 45 minutes. The Dallas 
+team especially crushed it with their API optimization.
+
+One concern: customer churn ticked up 2%. Let's discuss 
+fixes in tomorrow's standup.
+
+Questions? Grab me on Slack.
+
+Thanks,
+```
+
+### Quick Checklist: Does Your Writing Sound Human?
+
+- [ ] Maximum 1 em dash per paragraph
+- [ ] Semicolons used rarely (max 1 per page)
+- [ ] No more than 1 emoji per section header
+- [ ] Avoided cliché transitions and openings
+- [ ] Varied sentence lengths (some very short)
+- [ ] Used simple words over complex alternatives
+- [ ] Included specific examples and numbers
+- [ ] Broke away from formulaic patterns
+- [ ] Added appropriate conversational elements
+- [ ] Ended without a summary paragraph
+
+### The Golden Rule
+
+If you read it aloud and it sounds like a robot trying to impress someone, rewrite it. Good professional writing sounds like a smart human talking to another human, not an AI assistant attempting to sound professional.
+
+## 🔢 Numbers, Dates, and Data Formatting Standards
+
+### Numbers and Decimals
+
+**General Numbers:**
+- **1-9:** Spell out (one, two, three)
+  - ✅ "We identified three critical bugs"
+  - ❌ "We identified 3 critical bugs"
+- **10+:** Use numerals
+  - ✅ "We processed 47 requests"
+  - ❌ "We processed forty-seven requests"
+- **Starting sentences:** Always spell out
+  - ✅ "Twelve servers crashed simultaneously"
+  - ❌ "12 servers crashed simultaneously"
+
+**Large Numbers:**
+- **Thousands:** Use comma separators
+  - ✅ 1,234 or 1.2K (choose one style per document)
+  - ❌ 1234
+- **Millions/Billions:** Use abbreviations for readability
+  - ✅ $4.2M, 1.5B requests
+  - ❌ $4,200,000, 1,500,000,000 requests
+- **Be consistent:** Don't mix formats
+  - ❌ "We saved $1.2M and reduced costs by $45,000"
+  - ✅ "We saved $1.2M and reduced costs by $45K"
+
+**Decimals and Precision:**
+- **Money:** Two decimal places
+  - ✅ $45.00, $1,234.56
+  - ❌ $45, $1,234.5
+- **Percentages:** One decimal for precision, whole numbers for estimates
+  - ✅ "Improved by 23.4%" (when precision matters)
+  - ✅ "Roughly 25% faster" (for general communication)
+  - ❌ "Improved by 23.456%"
+- **Technical metrics:** Match the meaningful precision
+  - ✅ "99.9% uptime" (three nines)
+  - ✅ "99.99% uptime" (four nines)
+  - ❌ "99.943% uptime" (false precision)
+
+**Ranges:**
+- ✅ "10-15 minutes" or "10 to 15 minutes"
+- ✅ "$4M-$6M" or "$4 million to $6 million"
+- ❌ "10 - 15 minutes" (avoid spaces around dash)
+- ❌ "Between $4M-$6M" (redundant)
+
+### Dates and Times
+
+**Date Formats:**
+- **US business standard:** March 15, 2025
+- **International/ISO:** 2025-03-15 (for technical docs)
+- **Short form:** Mar 15 or 3/15 (only in informal contexts)
+- **Never:** 15/3/2025 or 15-Mar-2025
+
+**Date Ranges:**
+- ✅ "March 15-17, 2025"
+- ✅ "March 15 to April 2, 2025"
+- ✅ "Q2 2025" (April-June)
+- ❌ "March 15-17" (missing year)
+- ❌ "3/15-3/17" (too informal)
+
+**Time Formats:**
+- **12-hour:** 2:30 PM, 11:45 AM
+  - Always include AM/PM
+  - No periods in AM/PM
+- **24-hour:** 14:30, 23:45 (for international/technical contexts)
+- **Timezones:** 
+  - ✅ "2:30 PM PST" or "2:30 PM Pacific"
+  - ✅ "14:30 UTC" (for technical docs)
+  - ❌ "2:30 PM" (missing timezone)
+
+**Durations:**
+- **Precise:** "2 hours 15 minutes"
+- **Approximate:** "~2.5 hours" or "about 2.5 hours"
+- **Days/Weeks:** "14 days" or "2 weeks" (be consistent)
+- **Sub-second:** "450ms" not "0.45 seconds"
+
+### Technical Measurements
+
+**Data Sizes:**
+```
+Decimal (Storage):          Binary (Memory):
+- 1 KB = 1,000 bytes       - 1 KiB = 1,024 bytes
+- 1 MB = 1,000 KB          - 1 MiB = 1,024 KiB
+- 1 GB = 1,000 MB          - 1 GiB = 1,024 MiB
+- 1 TB = 1,000 GB          - 1 TiB = 1,024 GiB
+```
+- ✅ "500GB storage" or "500GiB memory"
+- ❌ "500 GB" (avoid space before unit)
+- ❌ "500gb" (incorrect capitalization)
+
+**Performance Metrics:**
+- **Latency:** milliseconds (ms) or microseconds (μs)
+  - ✅ "Response time: 120ms"
+  - ❌ "Response time: 0.12 seconds"
+- **Throughput:** requests/second or ops/second
+  - ✅ "10K requests/second" or "10,000 req/s"
+  - ❌ "10000 requests per second" (too long)
+- **Bandwidth:** Mbps or Gbps
+  - ✅ "1 Gbps connection"
+  - ❌ "1000 Mbps connection" (use larger unit)
+
+### Financial Formatting
+
+**Currency:**
+- **US Dollar:** $1,234.56 (symbol before number)
+- **Large amounts:** $4.2M, $15.7B
+- **Ranges:** "$10K-$15K" or "$10,000 to $15,000"
+- **International:** USD 1,234.56 or US$1,234.56
+
+**Financial Metrics:**
+- **Growth rates:** "+23%" or "23% increase"
+- **Negative values:** "-15%" or "(15%)" in tables
+- **Compound rates:** "15% CAGR" or "15% annually"
+- **Ratios:** "3:1 ROI" or "3x return"
+
+### Formatting in Tables and Charts
+
+**Table Numbers:**
+```
+| Metric          | Q1 2024  | Q2 2024  | Change |
+|-----------------|----------|----------|---------|
+| Revenue         | $4.2M    | $5.1M    | +21.4%  |
+| Users           | 45,230   | 52,100   | +15.2%  |
+| Uptime          | 99.92%   | 99.95%   | +0.03pp |
+| Response Time   | 145ms    | 98ms     | -32.4%  |
+```
+
+**Chart Labels:**
+- Y-axis: Include units (ms, %, $K)
+- X-axis: Consistent date format
+- Legend: Short labels with units
+- Data points: Show on hover, not cluttering
+
+### Common Mistakes to Avoid
+
+**Inconsistent Formats:**
+- ❌ Mixing "$1.2M" and "$45,000" in same document
+- ❌ Switching between "Mar 15" and "March 15"
+- ❌ Using both "10am" and "2:00 PM"
+
+**False Precision:**
+- ❌ "23.456% improvement" (implies measurement to 1/1000th)
+- ❌ "$4,234,567.89" (use $4.23M)
+- ❌ "Response time: 123.4567ms" (use 123ms)
+
+**Missing Context:**
+- ❌ "Improved by 50%" (50% of what?)
+- ❌ "Costs $5K" (per what? month? year? user?)
+- ❌ "Ships in Q2" (which year?)
+
+### Quick Reference Format Guide
+
+```
+Numbers:        1-9 spelled out, 10+ numerals
+Money:          $1.2M, $45K, $123.45
+Percentages:    23%, 23.4%, ~25%
+Dates:          March 15, 2025 or 2025-03-15
+Times:          2:30 PM PST or 14:30 UTC
+Durations:      2.5 hours, 15 minutes, 450ms
+Data:           500GB, 1.2TB, 45MB/s
+Metrics:        10K requests/second, 99.9% uptime
+```
 
 ## 📋 Quick Decision Matrix
 
