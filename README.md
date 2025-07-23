@@ -661,9 +661,12 @@ If you read it aloud and it sounds like a robot trying to impress someone, rewri
   - ❌ "12 servers crashed simultaneously"
 
 **Large Numbers:**
-- **Thousands:** Use comma separators
+- **Thousands:** Use comma separators (US standard)
   - ✅ 1,234 or 1.2K (choose one style per document)
-  - ❌ 1234
+  - ✅ 9,000 or 9K
+  - ❌ 9.000 (European style - avoid)
+  - ❌ 9 000 (space separator - avoid)
+  - ❌ 9000 (no separator - harder to read)
 - **Millions/Billions:** Use abbreviations for readability
   - ✅ $4.2M, 1.5B requests
   - ❌ $4,200,000, 1,500,000,000 requests
